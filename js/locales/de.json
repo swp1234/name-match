@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Namenskompatibilitätstest 💕 - DopaBrain",
+    "description": "Teste die Namenskompatibilität! Entdecke Liebe, Freundschaft, Chemie und mehr."
+  },
+  "a11y": {
+    "skip": "Zum Inhalt springen"
+  },
+  "app": {
+    "title": "Namenskompatibilität",
+    "subtitle": "Wie kompatibel sind eure Namen?",
+    "loading": "Laden...",
+    "tested": "Tests durchgeführt"
+  },
+  "input": {
+    "name1Label": "Dein Name",
+    "name2Label": "Sein/Ihr Name",
+    "name1Placeholder": "Deinen Namen eingeben",
+    "name2Placeholder": "Seinen/Ihren Namen eingeben",
+    "calculate": "Kompatibilität berechnen"
+  },
+  "loading": {
+    "analyzing": "Analysiere Kompatibilität...",
+    "msg1": "Analysiere Namensenergie...",
+    "msg2": "Berechne Kompatibilität...",
+    "msg3": "Messe Chemie...",
+    "msg4": "Lese Schicksalsmuster...",
+    "msg5": "Finalisiere Ergebnisse..."
+  },
+  "cat": {
+    "love": "Liebe",
+    "friendship": "Freundschaft",
+    "chemistry": "Chemie",
+    "communication": "Kommunikation",
+    "future": "Zukunft"
+  },
+  "level": {
+    "soulmate": "Seelenverwandte!",
+    "soulmateDesc": "Eine außergewöhnliche Verbindung! Eure Namen resonieren auf tiefster Ebene.",
+    "perfect": "Perfektes Match!",
+    "perfectDesc": "Hervorragende Kompatibilität! Die Energie eurer Namen erzeugt wunderschöne Harmonie.",
+    "great": "Tolle Chemie!",
+    "greatDesc": "Eine starke Verbindung besteht. Mit Verständnis kann es etwas Besonderes werden.",
+    "good": "Gutes Potenzial",
+    "goodDesc": "Ein solides Fundament. Mit Geduld und Kommunikation kann es wachsen.",
+    "interesting": "Interessante Dynamik",
+    "interestingDesc": "Eine faszinierende Dynamik. Eure Unterschiede können sich ergänzen.",
+    "growing": "Raum zum Wachsen",
+    "growingDesc": "Jede tolle Beziehung beginnt irgendwo! Viel zu entdecken."
+  },
+  "advice": {
+    "high": "Eure Verbindung ist natürlich stark. Haltet offene Kommunikation aufrecht.",
+    "medium": "Großes Potenzial! Versteht die Liebessprache des anderen.",
+    "low": "Konzentriert euch auf Vertrauensaufbau durch ehrliche Kommunikation.",
+    "growing": "Jede Verbindung hat ihre eigene Schönheit. Seid authentisch."
+  },
+  "result": {
+    "share": "📤 Teilen",
+    "retry": "🔄 Nochmal",
+    "adviceTitle": "Beziehungsrat"
+  },
+  "share": {
+    "title": "Namenskompatibilitätstest",
+    "text": "Unsere Namenskompatibilität ist {score}%! 💕\n{name1} ♥ {name2}\nProbier es auch!",
+    "copied": "In Zwischenablage kopiert!"
+  },
+  "nav": {
+    "back": "DopaBrain Startseite"
+  }
+}

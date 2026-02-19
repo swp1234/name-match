@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Test de Compatibilidad de Nombres 💕 - DopaBrain",
+    "description": "¡Prueba la compatibilidad de nombres! Descubre puntuaciones de amor, amistad, química y más."
+  },
+  "a11y": {
+    "skip": "Ir al contenido"
+  },
+  "app": {
+    "title": "Test de Compatibilidad",
+    "subtitle": "¿Qué tan compatibles son sus nombres?",
+    "loading": "Cargando...",
+    "tested": "tests completados"
+  },
+  "input": {
+    "name1Label": "Tu Nombre",
+    "name2Label": "Su Nombre",
+    "name1Placeholder": "Ingresa tu nombre",
+    "name2Placeholder": "Ingresa su nombre",
+    "calculate": "Calcular Compatibilidad"
+  },
+  "loading": {
+    "analyzing": "Analizando compatibilidad...",
+    "msg1": "Analizando energía del nombre...",
+    "msg2": "Calculando compatibilidad...",
+    "msg3": "Midiendo química...",
+    "msg4": "Leyendo patrones del destino...",
+    "msg5": "Finalizando resultados..."
+  },
+  "cat": {
+    "love": "Amor",
+    "friendship": "Amistad",
+    "chemistry": "Química",
+    "communication": "Comunicación",
+    "future": "Futuro"
+  },
+  "level": {
+    "soulmate": "¡Almas Gemelas!",
+    "soulmateDesc": "¡Una conexión extraordinaria! Sus nombres resuenan en el nivel más profundo.",
+    "perfect": "¡Pareja Perfecta!",
+    "perfectDesc": "¡Compatibilidad excepcional! La energía entre sus nombres crea una hermosa armonía.",
+    "great": "¡Gran Química!",
+    "greatDesc": "Existe una fuerte conexión. Con comprensión y esfuerzo, puede ser algo verdaderamente especial.",
+    "good": "Buen Potencial",
+    "goodDesc": "Existe una base sólida. Con paciencia y comunicación, puede crecer.",
+    "interesting": "Dinámica Interesante",
+    "interestingDesc": "Una dinámica intrigante. Sus diferencias pueden ser complementarias.",
+    "growing": "Espacio para Crecer",
+    "growingDesc": "¡Toda gran relación empieza en algún lugar! Mucho por descubrir el uno del otro."
+  },
+  "advice": {
+    "high": "Su conexión es naturalmente fuerte. Mantengan la comunicación abierta.",
+    "medium": "¡Gran potencial! Entiendan el lenguaje del amor del otro y hagan pequeños gestos diarios.",
+    "low": "Enfóquense en construir confianza a través de comunicación honesta.",
+    "growing": "Cada conexión tiene su propia belleza. Sean auténticos y muestren interés genuino."
+  },
+  "result": {
+    "share": "📤 Compartir",
+    "retry": "🔄 Intentar de Nuevo",
+    "adviceTitle": "Consejo de Relación"
+  },
+  "share": {
+    "title": "Test de Compatibilidad de Nombres",
+    "text": "¡Nuestra compatibilidad de nombres es {score}%! 💕\n{name1} ♥ {name2}\n¡Prueba la tuya!",
+    "copied": "¡Copiado al portapapeles!"
+  },
+  "nav": {
+    "back": "DopaBrain Inicio"
+  }
+}

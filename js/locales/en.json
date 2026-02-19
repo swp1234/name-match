@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Name Compatibility Test 💕 - DopaBrain",
+    "description": "Test name compatibility with your crush, partner, or friend! Discover love, friendship, chemistry scores."
+  },
+  "a11y": {
+    "skip": "Skip to content"
+  },
+  "app": {
+    "title": "Name Compatibility Test",
+    "subtitle": "How compatible are your names?",
+    "loading": "Loading...",
+    "tested": "tests completed"
+  },
+  "input": {
+    "name1Label": "Your Name",
+    "name2Label": "Their Name",
+    "name1Placeholder": "Enter your name",
+    "name2Placeholder": "Enter their name",
+    "calculate": "Calculate Compatibility"
+  },
+  "loading": {
+    "analyzing": "Analyzing compatibility...",
+    "msg1": "Analyzing name energy...",
+    "msg2": "Calculating compatibility...",
+    "msg3": "Measuring chemistry...",
+    "msg4": "Reading destiny patterns...",
+    "msg5": "Finalizing results..."
+  },
+  "cat": {
+    "love": "Love",
+    "friendship": "Friendship",
+    "chemistry": "Chemistry",
+    "communication": "Communication",
+    "future": "Future"
+  },
+  "level": {
+    "soulmate": "Soulmate Level!",
+    "soulmateDesc": "An extraordinary connection! Your names resonate on the deepest level. A rare and powerful bond.",
+    "perfect": "Perfect Match!",
+    "perfectDesc": "Outstanding compatibility! The energy between your names creates beautiful harmony.",
+    "great": "Great Chemistry!",
+    "greatDesc": "A strong connection exists. With understanding and effort, this can become truly special.",
+    "good": "Good Potential",
+    "goodDesc": "A solid foundation exists. With patience and communication, this can grow into something meaningful.",
+    "interesting": "Interesting Dynamic",
+    "interestingDesc": "An intriguing dynamic. Your differences can be complementary. Embrace what makes you unique together.",
+    "growing": "Room to Grow",
+    "growingDesc": "Every great relationship starts somewhere! Much to discover about each other. The journey is the reward."
+  },
+  "advice": {
+    "high": "Your connection is naturally strong. Maintain open communication and never take each other for granted.",
+    "medium": "Great potential! Understand each other's love language and make small gestures of appreciation daily.",
+    "low": "Focus on building trust through honest communication. Find common interests and create shared experiences.",
+    "growing": "Every connection has its own beauty. Be your authentic self and show genuine interest in the other person."
+  },
+  "result": {
+    "share": "📤 Share",
+    "retry": "🔄 Try Again",
+    "adviceTitle": "Relationship Advice"
+  },
+  "share": {
+    "title": "Name Compatibility Test",
+    "text": "Our name compatibility is {score}%! 💕\n{name1} ♥ {name2}\nCheck yours too!",
+    "copied": "Copied to clipboard!"
+  },
+  "nav": {
+    "back": "DopaBrain Home"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "姓名配对测试 💕 - DopaBrain",
+    "description": "输入两个名字测试配对指数！爱情、友情、默契、沟通、未来五大维度分析。"
+  },
+  "a11y": {
+    "skip": "跳转到主要内容"
+  },
+  "app": {
+    "title": "姓名配对测试",
+    "subtitle": "你们的名字有多配？",
+    "loading": "加载中...",
+    "tested": "人已测试"
+  },
+  "input": {
+    "name1Label": "你的名字",
+    "name2Label": "对方的名字",
+    "name1Placeholder": "输入你的名字",
+    "name2Placeholder": "输入对方的名字",
+    "calculate": "计算配对指数"
+  },
+  "loading": {
+    "analyzing": "正在分析配对...",
+    "msg1": "分析名字能量...",
+    "msg2": "计算配对指数...",
+    "msg3": "测量默契度...",
+    "msg4": "解读缘分模式...",
+    "msg5": "整理结果..."
+  },
+  "cat": {
+    "love": "爱情",
+    "friendship": "友情",
+    "chemistry": "默契",
+    "communication": "沟通",
+    "future": "未来"
+  },
+  "level": {
+    "soulmate": "灵魂伴侣！",
+    "soulmateDesc": "不可思议的连接！两个名字在最深层次产生共鸣。这是罕见而强大的缘分。",
+    "perfect": "完美匹配！",
+    "perfectDesc": "出色的兼容性！两个名字的能量创造出美丽的和谐。",
+    "great": "化学反应极强！",
+    "greatDesc": "两人之间有很强的联系。通过理解和努力，可以成为真正特别的关系。",
+    "good": "潜力不错",
+    "goodDesc": "有坚实的基础。通过耐心和沟通，可以发展成有意义的关系。",
+    "interesting": "有趣的组合",
+    "interestingDesc": "独特的互动。彼此的差异可以互补。一起拥抱让你们独特的东西。",
+    "growing": "成长空间大",
+    "growingDesc": "每段美好的关系都有一个起点！有很多关于彼此的事情等待发现。"
+  },
+  "advice": {
+    "high": "你们的连接天然强大。保持开放的沟通，不要把对方视为理所当然。",
+    "medium": "潜力巨大！了解彼此的爱情语言，每天做小小的感恩表达。",
+    "low": "专注于通过诚实沟通建立信任。找到共同兴趣，创造共同经历。",
+    "growing": "每种缘分都有其独特之美。做真实的自己，对对方表现出真诚的关心。"
+  },
+  "result": {
+    "share": "📤 分享",
+    "retry": "🔄 重新测试",
+    "adviceTitle": "关系建议"
+  },
+  "share": {
+    "title": "姓名配对测试",
+    "text": "我们的姓名配对指数是{score}%！💕\n{name1} ♥ {name2}\n你也来测测！",
+    "copied": "已复制到剪贴板！"
+  },
+  "nav": {
+    "back": "DopaBrain 首页"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "İsim Uyumu Testi 💕 - DopaBrain",
+    "description": "İsim uyumunuzu test edin! Aşk, arkadaşlık, kimya, iletişim ve gelecek analizi."
+  },
+  "a11y": {
+    "skip": "İçeriğe geç"
+  },
+  "app": {
+    "title": "İsim Uyumu Testi",
+    "subtitle": "İsimleriniz ne kadar uyumlu?",
+    "loading": "Yükleniyor...",
+    "tested": "test tamamlandı"
+  },
+  "input": {
+    "name1Label": "Senin Adın",
+    "name2Label": "Onun Adı",
+    "name1Placeholder": "Adını gir",
+    "name2Placeholder": "Onun adını gir",
+    "calculate": "Uyumu Hesapla"
+  },
+  "loading": {
+    "analyzing": "Uyum analizi...",
+    "msg1": "İsim enerjisi analiz ediliyor...",
+    "msg2": "Uyum hesaplanıyor...",
+    "msg3": "Kimya ölçülüyor...",
+    "msg4": "Kader kalıpları okunuyor...",
+    "msg5": "Sonuçlar hazırlanıyor..."
+  },
+  "cat": {
+    "love": "Aşk",
+    "friendship": "Arkadaşlık",
+    "chemistry": "Kimya",
+    "communication": "İletişim",
+    "future": "Gelecek"
+  },
+  "level": {
+    "soulmate": "Ruh İkizi!",
+    "soulmateDesc": "Olağanüstü bir bağ! İsimleriniz en derin seviyede rezonans yapıyor.",
+    "perfect": "Mükemmel Eşleşme!",
+    "perfectDesc": "Harika uyum! İsimlerinizin enerjisi güzel bir harmoni yaratıyor.",
+    "great": "Harika Kimya!",
+    "greatDesc": "Güçlü bir bağ var. Anlayış ve çabayla özel bir şeye dönüşebilir.",
+    "good": "İyi Potansiyel",
+    "goodDesc": "Sağlam bir temel var. Sabır ve iletişimle büyüyebilir.",
+    "interesting": "İlginç Dinamik",
+    "interestingDesc": "Çekici bir dinamik. Farklılıklarınız birbirini tamamlayabilir.",
+    "growing": "Büyüme Alanı",
+    "growingDesc": "Her harika ilişki bir yerden başlar! Birbiriniz hakkında keşfedecek çok şey var."
+  },
+  "advice": {
+    "high": "Bağınız doğal olarak güçlü. Açık iletişimi sürdürün.",
+    "medium": "Büyük potansiyel! Birbirinizin sevgi dilini anlayın.",
+    "low": "Dürüst iletişimle güven inşa etmeye odaklanın.",
+    "growing": "Her bağın kendine özgü bir güzelliği var. Kendiniz olun."
+  },
+  "result": {
+    "share": "📤 Paylaş",
+    "retry": "🔄 Tekrar Dene",
+    "adviceTitle": "İlişki Tavsiyesi"
+  },
+  "share": {
+    "title": "İsim Uyumu Testi",
+    "text": "İsim uyumumuz {score}%! 💕\n{name1} ♥ {name2}\nSen de dene!",
+    "copied": "Panoya kopyalandı!"
+  },
+  "nav": {
+    "back": "DopaBrain Ana Sayfa"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Tes Kecocokan Nama 💕 - DopaBrain",
+    "description": "Cek kecocokan nama! Analisis cinta, persahabatan, chemistry, komunikasi, dan masa depan."
+  },
+  "a11y": {
+    "skip": "Langsung ke konten"
+  },
+  "app": {
+    "title": "Tes Kecocokan Nama",
+    "subtitle": "Seberapa cocok nama kalian?",
+    "loading": "Memuat...",
+    "tested": "tes selesai"
+  },
+  "input": {
+    "name1Label": "Nama Kamu",
+    "name2Label": "Nama Dia",
+    "name1Placeholder": "Masukkan nama kamu",
+    "name2Placeholder": "Masukkan nama dia",
+    "calculate": "Hitung Kecocokan"
+  },
+  "loading": {
+    "analyzing": "Menganalisis kecocokan...",
+    "msg1": "Menganalisis energi nama...",
+    "msg2": "Menghitung kecocokan...",
+    "msg3": "Mengukur chemistry...",
+    "msg4": "Membaca pola takdir...",
+    "msg5": "Menyelesaikan hasil..."
+  },
+  "cat": {
+    "love": "Cinta",
+    "friendship": "Persahabatan",
+    "chemistry": "Chemistry",
+    "communication": "Komunikasi",
+    "future": "Masa Depan"
+  },
+  "level": {
+    "soulmate": "Belahan Jiwa!",
+    "soulmateDesc": "Koneksi luar biasa! Nama kalian beresonansi di level terdalam.",
+    "perfect": "Pasangan Sempurna!",
+    "perfectDesc": "Kecocokan luar biasa! Energi nama kalian menciptakan harmoni indah.",
+    "great": "Chemistry Luar Biasa!",
+    "greatDesc": "Ada koneksi kuat. Dengan pemahaman dan usaha, ini bisa jadi sangat spesial.",
+    "good": "Potensi Bagus",
+    "goodDesc": "Ada fondasi yang solid. Dengan kesabaran dan komunikasi, bisa berkembang.",
+    "interesting": "Dinamika Menarik",
+    "interestingDesc": "Dinamika yang menarik. Perbedaan kalian bisa saling melengkapi.",
+    "growing": "Ruang untuk Tumbuh",
+    "growingDesc": "Setiap hubungan hebat dimulai dari suatu tempat! Banyak yang bisa ditemukan."
+  },
+  "advice": {
+    "high": "Koneksi kalian secara alami kuat. Jaga komunikasi terbuka.",
+    "medium": "Potensi besar! Pahami bahasa cinta masing-masing.",
+    "low": "Fokus membangun kepercayaan melalui komunikasi jujur.",
+    "growing": "Setiap koneksi punya keindahan sendiri. Jadilah diri sendiri."
+  },
+  "result": {
+    "share": "📤 Bagikan",
+    "retry": "🔄 Coba Lagi",
+    "adviceTitle": "Saran Hubungan"
+  },
+  "share": {
+    "title": "Tes Kecocokan Nama",
+    "text": "Kecocokan nama kami {score}%! 💕\n{name1} ♥ {name2}\nCek punyamu juga!",
+    "copied": "Tersalin!"
+  },
+  "nav": {
+    "back": "DopaBrain Beranda"
+  }
+}

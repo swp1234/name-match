@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Test de Compatibilité des Prénoms 💕 - DopaBrain",
+    "description": "Testez la compatibilité de vos prénoms ! Amour, amitié, alchimie, communication et avenir."
+  },
+  "a11y": {
+    "skip": "Aller au contenu"
+  },
+  "app": {
+    "title": "Compatibilité des Prénoms",
+    "subtitle": "Vos prénoms sont-ils compatibles ?",
+    "loading": "Chargement...",
+    "tested": "tests effectués"
+  },
+  "input": {
+    "name1Label": "Votre Prénom",
+    "name2Label": "Son Prénom",
+    "name1Placeholder": "Entrez votre prénom",
+    "name2Placeholder": "Entrez son prénom",
+    "calculate": "Calculer la Compatibilité"
+  },
+  "loading": {
+    "analyzing": "Analyse de compatibilité...",
+    "msg1": "Analyse de l'énergie des prénoms...",
+    "msg2": "Calcul de la compatibilité...",
+    "msg3": "Mesure de l'alchimie...",
+    "msg4": "Lecture des motifs du destin...",
+    "msg5": "Finalisation des résultats..."
+  },
+  "cat": {
+    "love": "Amour",
+    "friendship": "Amitié",
+    "chemistry": "Alchimie",
+    "communication": "Communication",
+    "future": "Avenir"
+  },
+  "level": {
+    "soulmate": "Âmes sœurs !",
+    "soulmateDesc": "Une connexion extraordinaire ! Vos prénoms résonnent au niveau le plus profond.",
+    "perfect": "Match Parfait !",
+    "perfectDesc": "Compatibilité exceptionnelle ! L'énergie de vos prénoms crée une belle harmonie.",
+    "great": "Super Alchimie !",
+    "greatDesc": "Une forte connexion existe. Avec compréhension et effort, ça peut devenir spécial.",
+    "good": "Bon Potentiel",
+    "goodDesc": "Une base solide existe. Avec patience et communication, ça peut grandir.",
+    "interesting": "Dynamique Intéressante",
+    "interestingDesc": "Une dynamique intrigante. Vos différences peuvent être complémentaires.",
+    "growing": "De la Place pour Grandir",
+    "growingDesc": "Toute grande relation commence quelque part ! Beaucoup à découvrir l'un sur l'autre."
+  },
+  "advice": {
+    "high": "Votre connexion est naturellement forte. Maintenez une communication ouverte.",
+    "medium": "Grand potentiel ! Comprenez le langage amoureux de l'autre.",
+    "low": "Concentrez-vous sur la confiance par une communication honnête.",
+    "growing": "Chaque connexion a sa propre beauté. Soyez authentiques."
+  },
+  "result": {
+    "share": "📤 Partager",
+    "retry": "🔄 Réessayer",
+    "adviceTitle": "Conseil Relationnel"
+  },
+  "share": {
+    "title": "Test de Compatibilité des Prénoms",
+    "text": "Notre compatibilité de prénoms est de {score}% ! 💕\n{name1} ♥ {name2}\nTestez la vôtre !",
+    "copied": "Copié dans le presse-papiers !"
+  },
+  "nav": {
+    "back": "DopaBrain Accueil"
+  }
+}
