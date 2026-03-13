@@ -66,5 +66,12 @@
   },
   "nav": {
     "back": "DopaBrain Home"
+  },
+  "related": {
+    "title": "More to Explore",
+    "loveFrequency": "Love Frequency",
+    "zodiacMatch": "Zodiac Match",
+    "loveLanguage": "Love Language",
+    "mbtiLove": "MBTI Love"
   }
 }

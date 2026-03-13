@@ -66,5 +66,12 @@
   },
   "nav": {
     "back": "DopaBrain होम"
+  },
+  "related": {
+    "title": "और खोजें",
+    "loveFrequency": "प्रेम आवृत्ति",
+    "zodiacMatch": "राशि मिलान",
+    "loveLanguage": "प्रेम भाषा",
+    "mbtiLove": "MBTI प्रेम"
   }
 }

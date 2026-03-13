@@ -66,5 +66,12 @@
   },
   "nav": {
     "back": "DopaBrain Accueil"
+  },
+  "related": {
+    "title": "Plus à découvrir",
+    "loveFrequency": "Fréquence d'amour",
+    "zodiacMatch": "Compatibilité zodiacale",
+    "loveLanguage": "Langage amoureux",
+    "mbtiLove": "MBTI Amour"
   }
 }

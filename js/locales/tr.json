@@ -66,5 +66,12 @@
   },
   "nav": {
     "back": "DopaBrain Ana Sayfa"
+  },
+  "related": {
+    "title": "Daha fazla keşfet",
+    "loveFrequency": "Aşk Frekansı",
+    "zodiacMatch": "Burç Uyumu",
+    "loveLanguage": "Aşk Dili",
+    "mbtiLove": "MBTI Aşk"
   }
 }

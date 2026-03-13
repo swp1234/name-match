@@ -66,5 +66,12 @@
   },
   "nav": {
     "back": "DopaBrain 홈"
+  },
+  "related": {
+    "title": "더 많은 즐길거리",
+    "loveFrequency": "사랑 주파수",
+    "zodiacMatch": "별자리 궁합",
+    "loveLanguage": "사랑의 언어",
+    "mbtiLove": "MBTI 연애"
   }
 }

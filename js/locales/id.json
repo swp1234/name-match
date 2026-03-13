@@ -66,5 +66,12 @@
   },
   "nav": {
     "back": "DopaBrain Beranda"
+  },
+  "related": {
+    "title": "Jelajahi Lagi",
+    "loveFrequency": "Frekuensi Cinta",
+    "zodiacMatch": "Kecocokan Zodiak",
+    "loveLanguage": "Bahasa Cinta",
+    "mbtiLove": "MBTI Cinta"
   }
 }

@@ -66,5 +66,12 @@
   },
   "nav": {
     "back": "DopaBrain Главная"
+  },
+  "related": {
+    "title": "Ещё интересное",
+    "loveFrequency": "Частота любви",
+    "zodiacMatch": "Совместимость знаков",
+    "loveLanguage": "Язык любви",
+    "mbtiLove": "MBTI Любовь"
   }
 }
