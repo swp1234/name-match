@@ -23,6 +23,7 @@
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
+html { overflow-x: hidden; }
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -30,11 +31,16 @@ body {
     color: var(--text);
     min-height: 100vh;
     overflow-x: hidden;
+    max-width: 100%;
 }
 
 /* Skip Link */
 .skip-link {
     position: absolute;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    box-sizing: border-box;
     top: -40px;
     left: 0;
     background: var(--primary);
@@ -143,7 +149,7 @@ body {
     text-align: center;
 }
 
-.app-icon { font-size: 64px; margin-bottom: 8px; animation: pulse 2s infinite; }
+.app-icon { display: inline-block; font-size: 64px; margin-bottom: 8px; animation: pulse 2s infinite; }
 
 .app-title {
     font-size: 28px;
@@ -464,6 +470,11 @@ body {
 .back-link {
     display: inline-flex;
     align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    min-width: 44px;
+    box-sizing: border-box;
+    padding: 10px 16px;
     gap: 4px;
     color: var(--text-secondary);
     text-decoration: none;
