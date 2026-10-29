@@ -1,3 +1,25 @@
+
+function preserveLanguageLinks() {
+    var urlLang = new URLSearchParams(window.location.search).get('lang');
+    var currentLang = urlLang || (typeof i18n !== 'undefined' && typeof i18n.getCurrentLanguage === 'function' ? i18n.getCurrentLanguage() : null) || 'ko';
+    var links = document.querySelectorAll('a[href^="/"], .related-card');
+    var base = (window.location.origin && window.location.origin !== 'null') ? window.location.origin : 'https://dopabrain.com';
+    links.forEach(function(link) {
+        var href = link.getAttribute('href');
+        if (!href || href.startsWith('http') || href.startsWith('#')) return;
+        try {
+            var url = new URL(href, base);
+            url.searchParams.set('lang', currentLang);
+            link.setAttribute('href', url.pathname + url.search);
+        } catch(e) {}
+    });
+}
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', preserveLanguageLinks);
+} else {
+    preserveLanguageLinks();
+}
+
 // Name Compatibility Test - Main App
 const _t = (k, fb) => (window.i18n?.t(k) !== k ? window.i18n.t(k) : fb);
 
@@ -13,6 +35,7 @@ const btnCalc = document.getElementById('btn-calculate');
     try {
         await i18n.loadTranslations(i18n.getCurrentLanguage());
         i18n.updateUI();
+        preserveLanguageLinks();
         const langToggle = document.getElementById('lang-toggle');
         const langMenu = document.getElementById('lang-menu');
         document.querySelector(`[data-lang="${i18n.getCurrentLanguage()}"]`)?.classList.add('active');
@@ -23,6 +46,7 @@ const btnCalc = document.getElementById('btn-calculate');
         document.querySelectorAll('.lang-option').forEach(opt => {
             opt.addEventListener('click', async () => {
                 await i18n.setLanguage(opt.dataset.lang);
+                preserveLanguageLinks();
                 document.querySelectorAll('.lang-option').forEach(o => o.classList.remove('active'));
                 opt.classList.add('active');
                 langMenu.classList.add('hidden');
@@ -31,7 +55,8 @@ const btnCalc = document.getElementById('btn-calculate');
     } catch (e) { console.warn('i18n init:', e); }
     finally {
         const loader = document.getElementById('app-loader');
-        if (loader) { loader.classList.add('hidden'); setTimeout(() => loader.remove(), 300); }
+        if (loader) { loader.classList.add('hidden');
+          preserveLanguageLinks(); setTimeout(() => loader.remove(), 300); }
     }
 })();
 
