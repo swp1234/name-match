@@ -10,7 +10,7 @@
     "title": "Test de Compatibilidad",
     "subtitle": "¿Qué tan compatibles son sus nombres?",
     "loading": "Cargando...",
-    "tested": "tests completados"
+    "tested": "Armonía Onomástica y Fonosemántica · Reflexión 100% Privada"
   },
   "input": {
     "name1Label": "Tu Nombre",
@@ -73,5 +73,21 @@
     "loveLanguage": "Lenguaje del amor",
     "mbtiLove": "MBTI Amor",
     "attachmentStyle": "Estilo de Apego"
+  },
+  "about": {
+    "toggle": "Acerca del Test de Compatibilidad de Nombres y Fonosemántica",
+    "heading1": "Onomástica y Resonancia Fonosemántica",
+    "text1": "La compatibilidad de nombres se inspira en la onomástica (estudio de los nombres) y la fonosemántica (el simbolismo emocional del sonido). A través de diversas culturas, las cadencias rítmicas de los nombres evocan impresiones intuitivas de afinidad y fluidez.",
+    "heading2": "Proyección Psicológica y Conexión Relacional",
+    "text2": "En psicología relacional, este test actúa como un disparador conversacional lúdico que invita a dialogar sobre empatía, estilo afectivo y expectativas mutuas con humor y complicidad.",
+    "faqTitle": "Preguntas Frecuentes (FAQ)",
+    "faq1Q": "¿Qué bases inspiran este cálculo de nombres?",
+    "faq1A": "Combina armonía fonética, equivalencias simbólicas y algoritmos de correlación de caracteres para brindar una puntuación amena y reflexiva.",
+    "faq2Q": "¿Determina la compatibilidad de nombres el éxito de una pareja?",
+    "faq2A": "No. Es un juego cultural recreativo. La salud de una relación depende del respeto recíproco, la escucha activa y la madurez afectiva.",
+    "faq3Q": "¿Se guardan los nombres ingresados en servidores externos?",
+    "faq3A": "Nunca. Todo el análisis se realiza de forma 100% local en tu navegador.",
+    "reviewDate": "Revisión Editorial: Noviembre 2026",
+    "reviewTeam": "DopaBrain Serie de Onomástica y Psicología Relacional"
   }
 }

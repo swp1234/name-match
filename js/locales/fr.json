@@ -10,7 +10,7 @@
     "title": "Compatibilité des Prénoms",
     "subtitle": "Vos prénoms sont-ils compatibles ?",
     "loading": "Chargement...",
-    "tested": "tests effectués"
+    "tested": "Harmonie Onomastique & Phonémantique · Réflexion 100% Privée"
   },
   "input": {
     "name1Label": "Votre Prénom",
@@ -73,5 +73,21 @@
     "loveLanguage": "Langage amoureux",
     "mbtiLove": "MBTI Amour",
     "attachmentStyle": "Style d’Attachement"
+  },
+  "about": {
+    "toggle": "À propos du Test de Compatibilité des Prénoms & Phonétique",
+    "heading1": "Onomastique et Résonance Phonologique",
+    "text1": "Le test de compatibilité des prénoms s'inspire de l'onomastique (étude des noms) et du symbolisme des sons. Le rythme des syllabes et l'harmonie des sonorités évoquent des affinités intuitives universelles.",
+    "heading2": "Projection Psychologique & Convivialité Relationnelle",
+    "text2": "En psychologie relationnelle, ce test sert d'amorce bienveillante pour échanger sur la complicité, les langages de l'amour et la vision du couple.",
+    "faqTitle": "Foire Aux Questions (FAQ)",
+    "faq1Q": "Quelles traditions inspirent le calcul des prénoms ?",
+    "faq1A": "Il associe euphonie phonétique, symbolisme des lettres et algorithmes ludiques de croisement de caractères.",
+    "faq2Q": "Le test prédit-il l'avenir d'un couple ?",
+    "faq2A": "Absolument pas. C'est une expérience divertissante conçue pour nourrir la complicité. L'amour repose sur l'écoute et le respect.",
+    "faq3Q": "Les prénoms sont-ils conservés ?",
+    "faq3A": "Jamais. Aucun prénom n'est envoyé à des serveurs tiers ; tout est calculé 100% localement dans le navigateur.",
+    "reviewDate": "Revue Éditoriale : Novembre 2026",
+    "reviewTeam": "DopaBrain Onomastique & Psychologie Relationnelle"
   }
 }

@@ -10,7 +10,7 @@
     "title": "Name Compatibility Test",
     "subtitle": "How compatible are your names?",
     "loading": "Loading...",
-    "tested": "tests completed"
+    "tested": "Phonosemantic & Onomastic Harmony · 100% Private Reflection"
   },
   "input": {
     "name1Label": "Your Name",
@@ -73,5 +73,21 @@
     "loveLanguage": "Love Language",
     "mbtiLove": "MBTI Love",
     "attachmentStyle": "Attachment Style"
+  },
+  "about": {
+    "toggle": "About Name Compatibility & Phonosemantics",
+    "heading1": "Onomastics and Phonosemantic Resonance",
+    "text1": "Name compatibility draws from the cultural science of onomastics (the study of names) and phonosemantics (sound symbolism). Across global cultures—from traditional East Asian stroke-count compatibility to Western phonetic euphony—names carry distinctive rhythmic patterns and acoustic frequencies that evoke playful intuitive associations.",
+    "heading2": "Psychological Projection & Relational Fun",
+    "text2": "In relationship psychology, name matching operates as a projective conversation starter. Exploring compatibility scores gives couples and friends a lighthearted pretext to discuss core relational pillars: emotional intimacy, communication styles, mutual trust, and future aspirations.",
+    "faqTitle": "Frequently Asked Questions",
+    "faq1Q": "What linguistic and cultural traditions inspire name compatibility tests?",
+    "faq1A": "Name compatibility combines cultural onomastics, phonetic sound symbolism, and traditional stroke-count counting games. The algorithm translates characters into playful acoustic and numerical resonance scores.",
+    "faq2Q": "Does name compatibility determine actual relationship success?",
+    "faq2A": "No. Name match tests are playful cultural games and reflective conversational prompts. Genuine romantic compatibility depends on mutual respect, active communication, shared values, and emotional maturity.",
+    "faq3Q": "Are the names I enter stored or transmitted to external servers?",
+    "faq3A": "Never. The name calculation algorithm executes 100% locally in your web browser. Neither your name nor your partner's name is ever sent across the network or stored in any database.",
+    "reviewDate": "Editorial Review: November 2026",
+    "reviewTeam": "DopaBrain Onomastics & Relational Psychology Series"
   }
 }

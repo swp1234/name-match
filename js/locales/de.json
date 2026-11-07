@@ -10,7 +10,7 @@
     "title": "Namenskompatibilität",
     "subtitle": "Wie kompatibel sind eure Namen?",
     "loading": "Laden...",
-    "tested": "Tests durchgeführt"
+    "tested": "Onomastische & phonosemantische Harmonie · 100 % private Reflexion"
   },
   "input": {
     "name1Label": "Dein Name",
@@ -73,5 +73,21 @@
     "loveLanguage": "Liebessprache",
     "mbtiLove": "MBTI Liebe",
     "attachmentStyle": "Bindungsstil-Test"
+  },
+  "about": {
+    "toggle": "Über den Namen-Kompatibilitätstest & Phonosemantik",
+    "heading1": "Onomastik und klangsymbolische Resonanz",
+    "text1": "Die Namenskompatibilität stützt sich auf die Onomastik (Namenforschung) und die Phonosemantik (Lautsymbolik). Namen tragen durch Silbenrhythmus und Klangfarben intuitive emotionale Assoziationen in sich.",
+    "heading2": "Psychologische Projektion & spielerischer Dialog",
+    "text2": "In der Beziehungspsychologie dient der Test als unbeschwerter Eisbrecher, der Paaren und Freunden hilft, über Kommunikation, Zuneigung und Wünsche ins Gespräch zu kommen.",
+    "faqTitle": "Häufig gestellte Fragen (FAQ)",
+    "faq1Q": "Worauf basiert die Namensberechnung?",
+    "faq1A": "Auf einer Verknüpfung von Lautsymbolik, traditioneller Buchstabenharmonisierung und spielerischen Resonanzwerten.",
+    "faq2Q": "Bestimmt der Namenstest das tatsächliche Schicksal einer Beziehung?",
+    "faq2A": "Nein. Es handelt sich um ein unterhaltsames Reflexionsspiel. Echte Bindung wächst durch Empathie und Dialog.",
+    "faq3Q": "Werden die eingegebenen Namen extern übertragen?",
+    "faq3A": "Niemals. Die Kalkulation erfolgt zu 100 % lokal in Ihrem Browser.",
+    "reviewDate": "Redaktionelle Prüfung: November 2026",
+    "reviewTeam": "DopaBrain Onomastik & Beziehungspsychologie"
   }
 }

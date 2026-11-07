@@ -10,7 +10,7 @@
     "title": "İsim Uyumu Testi",
     "subtitle": "İsimleriniz ne kadar uyumlu?",
     "loading": "Yükleniyor...",
-    "tested": "test tamamlandı"
+    "tested": "Onomastik ve Fonosemantik Uyum Analizi · %100 Gizli Kişisel Değerlendirme"
   },
   "input": {
     "name1Label": "Senin Adın",
@@ -73,5 +73,21 @@
     "loveLanguage": "Aşk Dili",
     "mbtiLove": "MBTI Aşk",
     "attachmentStyle": "Bağlanma Stili"
+  },
+  "about": {
+    "toggle": "İsim Uyumu Testi ve Fonosemantik Hakkında",
+    "heading1": "Onomastik ve Ses Sembolizmi Uyumu",
+    "text1": "İsim uyumu, onomastik (isim bilimi) ve fonosemantik (ses sembolizmi) prensiplerinden esinlenir. Hece ritimleri ve harf tınıları, iki isim yan yana geldiğinde sezgisel bir bağ oluşturur.",
+    "heading2": "Psikolojik Projeksiyon ve İletişim Güçlendirme",
+    "text2": "İlişki psikolojisinde bu test, çiftlerin sevgi dilleri, güven ve gelecek planları hakkında samimi sohbetler başlatmasını sağlayan tatlı bir araçtır.",
+    "faqTitle": "Sıkça Sorulan Sorular (FAQ)",
+    "faq1Q": "İsim uyumu testi neye dayanır?",
+    "faq1A": "Fonetik tını uyumu, harf frekansları ve kültürel isim uyum algoritmalarının eğlenceli bir sentezine dayanır.",
+    "faq2Q": "İsim uyumu gerçek ilişkinin başarısını belirler mi?",
+    "faq2A": "Hayır. Eğlence ve hoş sohbet amaçlıdır. Gerçek uyum karşılıklı saygı, empati ve dürüst iletişimle kurulur.",
+    "faq3Q": "Yazdığım isimler kaydediliyor mu?",
+    "faq3A": "Kesinlikle hayır. Tüm hesaplamalar tamamen tarayıcınızda yerel çalışır.",
+    "reviewDate": "Editoryal İnceleme: Kasım 2026",
+    "reviewTeam": "DopaBrain Onomastik ve İlişki Psikolojisi Serisi"
   }
 }

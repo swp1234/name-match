@@ -10,7 +10,7 @@
     "title": "Tes Kecocokan Nama",
     "subtitle": "Seberapa cocok nama kalian?",
     "loading": "Memuat...",
-    "tested": "tes selesai"
+    "tested": "Harmoni Onomastika & Fonosemantik · Refleksi 100% Privat"
   },
   "input": {
     "name1Label": "Nama Kamu",
@@ -73,5 +73,21 @@
     "loveLanguage": "Bahasa Cinta",
     "mbtiLove": "MBTI Cinta",
     "attachmentStyle": "Gaya Kelekatan"
+  },
+  "about": {
+    "toggle": "Tentang Tes Kecocokan Nama & Fonosemantik",
+    "heading1": "Onomastika dan Resonansi Simbolisme Bunyi",
+    "text1": "Kecocokan nama berakar pada onomastika (studi tentang nama) dan fonosemantik (makna psikologis bunyi). Irama suku kata nama menciptakan getaran intuitif yang menyenangkan saat disandingkan.",
+    "heading2": "Proyeksi Psikologis & Keakraban Relasional",
+    "text2": "Dalam psikologi hubungan, tes ini menjadi pembuka obrolan ringan yang mempererat keakraban untuk mendiskusikan gaya komunikasi dan kasih sayang.",
+    "faqTitle": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "faq1Q": "Bagaimana skor kecocokan nama ini dihitung?",
+    "faq1A": "Menggabungkan keharmonisan fonetik, algoritma perpaduan karakter, dan tradisi kultural perhitungan nama.",
+    "faq2Q": "Apakah tes nama menentukan masa depan hubungan?",
+    "faq2A": "Tentu tidak. Ini adalah sarana hiburan dan refleksi ringan. Hubungan yang kokoh dibangun atas dasar saling menghargai dan komunikasi tulus.",
+    "faq3Q": "Apakah nama yang saya masukkan disimpan di server luar?",
+    "faq3A": "Sama sekali tidak. Proses komputasi berjalan 100% lokal di browser Anda.",
+    "reviewDate": "Tinjauan Editorial: November 2026",
+    "reviewTeam": "DopaBrain Seri Onomastika & Psikologi Hubungan"
   }
 }

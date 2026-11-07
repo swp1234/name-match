@@ -10,7 +10,7 @@
     "title": "Compatibilidade de Nomes",
     "subtitle": "Quão compatíveis são seus nomes?",
     "loading": "Carregando...",
-    "tested": "testes realizados"
+    "tested": "Harmonia Onomástica e Fonossemântica · Reflexão 100% Privada"
   },
   "input": {
     "name1Label": "Seu Nome",
@@ -73,5 +73,21 @@
     "loveLanguage": "Linguagem do amor",
     "mbtiLove": "MBTI Amor",
     "attachmentStyle": "Estilo de Apego"
+  },
+  "about": {
+    "toggle": "Sobre o Teste de Compatibilidade de Nomes e Fonossemântica",
+    "heading1": "Onomástica e Ressonância Sonora",
+    "text1": "O teste baseia-se na onomástica (estudo dos nomes próprios) e no simbolismo dos sons. Ritmos vocálicos e consonatais despertam conexões intuitivas e divertidas entre duas pessoas.",
+    "heading2": "Projeção Psicológica e Conversa Afetiva",
+    "text2": "Em psicologia das relações, a brincadeira do teste abre espaço para conversas descontraídas sobre intimidade emocional, diálogo e planos futuros.",
+    "faqTitle": "Perguntas Frequentes (FAQ)",
+    "faq1Q": "Qual é a lógica do cálculo de compatibilidade?",
+    "faq1A": "Combina harmonia fonética, correlação de caracteres e tradições culturais de afinidade entre nomes.",
+    "faq2Q": "O resultado define o futuro de uma relação?",
+    "faq2A": "Não. É um recurso lúdico e descontraído. Relacionamentos reais dependem de compromisso, carinho e respeito mútuo.",
+    "faq3Q": "Os nomes digitados são salvos em servidores?",
+    "faq3A": "Nunca. O cálculo acontece 100% de forma local no seu dispositivo.",
+    "reviewDate": "Revisão Editorial: Novembro 2026",
+    "reviewTeam": "DopaBrain Série de Onomástica e Psicologia Relacional"
   }
 }
