@@ -57,7 +57,10 @@
   "result": {
     "share": "📤 Bagikan",
     "retry": "🔄 Coba Lagi",
-    "adviceTitle": "Saran Hubungan"
+    "adviceTitle": "Saran Hubungan",
+    "saveCard": "Simpan Kartu Kecocokan",
+    "saved": "Kartu Tersimpan!",
+    "saveFailed": "Gagal menyimpan kartu."
   },
   "share": {
     "title": "Tes Kecocokan Nama",
@@ -89,5 +92,15 @@
     "faq3A": "Sama sekali tidak. Proses komputasi berjalan 100% lokal di browser Anda.",
     "reviewDate": "Tinjauan Editorial: November 2026",
     "reviewTeam": "DopaBrain Seri Onomastika & Psikologi Hubungan"
+  },
+  "curated": {
+    "title": "Buku Relasi & Komunikasi Pilihan",
+    "disclosure": "Tautan afiliasi",
+    "subtitle": "Lebih dari sekadar kecocokan nama—bangun komunikasi sehat dan kepercayaan jangka panjang.",
+    "cta": "Lihat Buku ->",
+    "gottmanTitle": "The Seven Principles for Making Marriage Work — John Gottman",
+    "gottmanDesc": "Kebiasaan berbasis riset untuk mempererat persahabatan dan memperbaiki konflik.",
+    "chapmanTitle": "The 5 Love Languages — Gary Chapman",
+    "chapmanDesc": "Pahami cara unik kamu dan pasangan dalam memberi serta menerima kasih sayang."
   }
 }

@@ -57,7 +57,10 @@
   "result": {
     "share": "📤 Partager",
     "retry": "🔄 Réessayer",
-    "adviceTitle": "Conseil Relationnel"
+    "adviceTitle": "Conseil Relationnel",
+    "saveCard": "Enregistrer la Carte",
+    "saved": "Carte Enregistrée !",
+    "saveFailed": "Échec de la sauvegarde."
   },
   "share": {
     "title": "Test de Compatibilité des Prénoms",
@@ -89,5 +92,15 @@
     "faq3A": "Jamais. Aucun prénom n'est envoyé à des serveurs tiers ; tout est calculé 100% localement dans le navigateur.",
     "reviewDate": "Revue Éditoriale : Novembre 2026",
     "reviewTeam": "DopaBrain Onomastique & Psychologie Relationnelle"
+  },
+  "curated": {
+    "title": "Guides Relationnels Recommandés",
+    "disclosure": "Liens affiliés",
+    "subtitle": "Au-delà de l’harmonie des prénoms, cultivez l’écoute, la complicité et la confiance.",
+    "cta": "Voir le Livre ->",
+    "gottmanTitle": "Les 7 lois de la vie à deux — John Gottman",
+    "gottmanDesc": "Habitudes validées par la recherche pour renforcer l’amitié et apaiser les tensions.",
+    "chapmanTitle": "Les 5 langages de l’amour — Gary Chapman",
+    "chapmanDesc": "Comprenez comment chacun donne et reçoit l’affection au quotidien."
   }
 }

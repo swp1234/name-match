@@ -57,7 +57,10 @@
   "result": {
     "share": "📤 Compartilhar",
     "retry": "🔄 Tentar Novamente",
-    "adviceTitle": "Conselho de Relacionamento"
+    "adviceTitle": "Conselho de Relacionamento",
+    "saveCard": "Salvar Cartão",
+    "saved": "Cartão Salvo!",
+    "saveFailed": "Não foi possível salvar."
   },
   "share": {
     "title": "Teste de Compatibilidade de Nomes",
@@ -89,5 +92,15 @@
     "faq3A": "Nunca. O cálculo acontece 100% de forma local no seu dispositivo.",
     "reviewDate": "Revisão Editorial: Novembro 2026",
     "reviewTeam": "DopaBrain Série de Onomástica e Psicologia Relacional"
+  },
+  "curated": {
+    "title": "Guias de Relacionamento e Diálogo",
+    "disclosure": "Links de afiliado",
+    "subtitle": "Vá além da sintonia dos nomes e cultive confiança, respeito e carinho no dia a dia.",
+    "cta": "Ver Livro ->",
+    "gottmanTitle": "Os 7 Princípios para o Casamento Dar Certo — John Gottman",
+    "gottmanDesc": "Práticas baseadas em pesquisas para aprofundar amizade e resolver conflitos.",
+    "chapmanTitle": "As 5 Linguagens do Amor — Gary Chapman",
+    "chapmanDesc": "Descubra como vocês dois expressam e recebem afeto naturalmente."
   }
 }

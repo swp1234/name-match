@@ -57,7 +57,10 @@
   "result": {
     "share": "📤 Teilen",
     "retry": "🔄 Nochmal",
-    "adviceTitle": "Beziehungsrat"
+    "adviceTitle": "Beziehungsrat",
+    "saveCard": "Partnerkarte Speichern",
+    "saved": "Karte Gespeichert!",
+    "saveFailed": "Speichern fehlgeschlagen."
   },
   "share": {
     "title": "Namenskompatibilitätstest",
@@ -89,5 +92,15 @@
     "faq3A": "Niemals. Die Kalkulation erfolgt zu 100 % lokal in Ihrem Browser.",
     "reviewDate": "Redaktionelle Prüfung: November 2026",
     "reviewTeam": "DopaBrain Onomastik & Beziehungspsychologie"
+  },
+  "curated": {
+    "title": "Empfohlene Beziehungsratgeber",
+    "disclosure": "Affiliate-Links",
+    "subtitle": "Über den Namensklang hinaus: Stärken Sie Kommunikation, Vertrauen und Alltagsnähe.",
+    "cta": "Ansehen ->",
+    "gottmanTitle": "Die 7 Geheimnisse der glücklichen Ehe — John Gottman",
+    "gottmanDesc": "Forschungsbasierte Gewohnheiten für tiefe Verbundenheit und Konfliktlösung.",
+    "chapmanTitle": "Die 5 Sprachen der Liebe — Gary Chapman",
+    "chapmanDesc": "Entdecken Sie, auf welche Weise Sie und Ihr Partner Zuneigung wirklich spüren."
   }
 }

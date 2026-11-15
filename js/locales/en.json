@@ -57,7 +57,10 @@
   "result": {
     "share": "📤 Share",
     "retry": "🔄 Try Again",
-    "adviceTitle": "Relationship Advice"
+    "adviceTitle": "Relationship Advice",
+    "saveCard": "Save Match Card",
+    "saved": "Card Saved!",
+    "saveFailed": "Could not save card."
   },
   "share": {
     "title": "Name Compatibility Test",
@@ -89,5 +92,15 @@
     "faq3A": "Never. The name calculation algorithm executes 100% locally in your web browser. Neither your name nor your partner's name is ever sent across the network or stored in any database.",
     "reviewDate": "Editorial Review: November 2026",
     "reviewTeam": "DopaBrain Onomastics & Relational Psychology Series"
+  },
+  "curated": {
+    "title": "Recommended Relationship Guides",
+    "disclosure": "Affiliate links",
+    "subtitle": "Go beyond names and strengthen everyday communication, affection, and lasting trust.",
+    "cta": "View Book ->",
+    "gottmanTitle": "The Seven Principles for Making Marriage Work",
+    "gottmanDesc": "John Gottman & Nan Silver — Research-backed habits that deepen friendship and conflict repair.",
+    "chapmanTitle": "The 5 Love Languages — Gary Chapman",
+    "chapmanDesc": "Discover how you and your partner naturally give and receive emotional affection."
   }
 }

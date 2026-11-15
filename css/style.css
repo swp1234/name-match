@@ -546,3 +546,128 @@ body {
     color: var(--text-secondary);
     line-height: 1.7;
 }
+
+
+.btn-action,
+.btn-calculate,
+.lang-option,
+.related-card {
+    min-height: 44px;
+}
+
+.btn-save-card {
+    background: linear-gradient(135deg, #ff4d6d, #e11d48);
+    color: #ffffff;
+    border: none;
+}
+
+.curated-resources {
+    margin: 22px 0 8px;
+    padding: 16px;
+    border-radius: 14px;
+    background: rgba(255, 77, 109, 0.07);
+    border: 1px solid rgba(255, 77, 109, 0.24);
+    text-align: left;
+}
+
+.curated-resources-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 6px;
+}
+
+.curated-resources-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--text-primary, #f8fafc);
+    margin: 0;
+}
+
+.curated-disclosure {
+    font-size: 11px;
+    color: var(--text-secondary, #94a3b8);
+    white-space: nowrap;
+}
+
+.curated-resources-subtitle {
+    font-size: 13px;
+    color: var(--text-secondary, #94a3b8);
+    margin: 0 0 12px;
+    line-height: 1.5;
+}
+
+.curated-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.curated-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-height: 48px;
+    padding: 12px 14px;
+    border-radius: 12px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+}
+
+.curated-item:hover {
+    transform: translateY(-1px);
+    border-color: var(--primary);
+}
+
+.curated-item-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.curated-item-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text-primary, #f8fafc);
+}
+
+.curated-item-cta {
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--primary);
+    white-space: nowrap;
+}
+
+.curated-item-desc {
+    font-size: 13px;
+    color: var(--text-secondary, #94a3b8);
+    line-height: 1.45;
+}
+
+.nm-toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(12px);
+    background: rgba(15, 23, 42, 0.94);
+    color: #f8fafc;
+    border: 1px solid rgba(255, 77, 109, 0.45);
+    padding: 10px 18px;
+    border-radius: 999px;
+    font-size: 13px;
+    font-weight: 600;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 9999;
+}
+
+.nm-toast.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}

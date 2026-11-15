@@ -57,7 +57,10 @@
   "result": {
     "share": "📤 Paylaş",
     "retry": "🔄 Tekrar Dene",
-    "adviceTitle": "İlişki Tavsiyesi"
+    "adviceTitle": "İlişki Tavsiyesi",
+    "saveCard": "Uyum Kartını Kaydet",
+    "saved": "Kart Kaydedildi!",
+    "saveFailed": "Kart kaydedilemedi."
   },
   "share": {
     "title": "İsim Uyumu Testi",
@@ -89,5 +92,15 @@
     "faq3A": "Kesinlikle hayır. Tüm hesaplamalar tamamen tarayıcınızda yerel çalışır.",
     "reviewDate": "Editoryal İnceleme: Kasım 2026",
     "reviewTeam": "DopaBrain Onomastik ve İlişki Psikolojisi Serisi"
+  },
+  "curated": {
+    "title": "Önerilen İlişki ve İletişim Kitapları",
+    "disclosure": "İş ortaklığı bağlantıları",
+    "subtitle": "İsim uyumunun ötesine geçip günlük iletişim, güven ve sevgi dilini güçlendirin.",
+    "cta": "İncele ->",
+    "gottmanTitle": "Evliliği Sürdürmenin Yedi İlkesi — John Gottman",
+    "gottmanDesc": "Dostluğu ve çatışma çözümünü güçlendiren araştırma temelli alışkanlıklar.",
+    "chapmanTitle": "Beş Sevgi Dili — Gary Chapman",
+    "chapmanDesc": "Siz ve partnerinizin sevgiyi nasıl ifade edip hissettiğini keşfedin."
   }
 }

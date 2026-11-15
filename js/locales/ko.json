@@ -57,7 +57,10 @@
   "result": {
     "share": "📤 공유하기",
     "retry": "🔄 다시 하기",
-    "adviceTitle": "관계 조언"
+    "adviceTitle": "관계 조언",
+    "saveCard": "궁합 카드 저장",
+    "saved": "카드 저장됨!",
+    "saveFailed": "카드 저장에 실패했습니다."
   },
   "share": {
     "title": "이름 궁합 테스트",
@@ -89,5 +92,15 @@
     "faq3A": "전혀 수집되지 않습니다. 이름 변환 및 점수 계산은 사용자 기기의 브라우저 메모리 안에서 100% 로컬 연산으로 처리되며 서버로 전송되지 않습니다.",
     "reviewDate": "학술 및 편집 검토: 2026년 11월",
     "reviewTeam": "DopaBrain 성명학 & 관계심리학 연구팀"
+  },
+  "curated": {
+    "title": "추천 관계 · 소통 도서",
+    "disclosure": "제휴 링크 포함",
+    "subtitle": "이름 궁합을 넘어 일상 속 신뢰와 대화, 애정 표현을 단단하게 다져보세요.",
+    "cta": "도서 보기 ->",
+    "gottmanTitle": "부부 사이를 지키는 7가지 원칙 (The Seven Principles)",
+    "gottmanDesc": "존 가트맨 — 수십 년간의 관계 연구로 입증된 신뢰와 갈등 회복의 기술.",
+    "chapmanTitle": "5가지 사랑의 언어 (The 5 Love Languages)",
+    "chapmanDesc": "게리 채프먼 — 서로 다른 애정 표현 방식을 이해해 오해를 줄이는 실용 가이드."
   }
 }

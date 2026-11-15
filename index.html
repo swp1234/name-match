@@ -7,7 +7,7 @@
     <meta name="robots" content="max-image-preview:large">
     <title>Name Compatibility Test - DopaBrain</title>
     <meta name="description" content="Test name compatibility with your crush, partner, or friend! Enter two names and discover your love, friendship, and chemistry scores.">
-    <meta name="dateModified" content="2026-11-07">
+    <meta name="dateModified" content="2026-11-15">
     <meta name="keywords" content="name compatibility, name match, love test, couple test, compatibility test, name chemistry">
     <meta name="theme-color" content="#ff4d6d">
     <link rel="canonical" href="https://dopabrain.com/name-match/">
@@ -28,17 +28,17 @@
 
     <!-- hreflang -->
     <link rel="alternate" hreflang="ko" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="en" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="zh" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="hi" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="ru" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="ja" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="es" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="pt" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="id" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="tr" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="de" href="https://dopabrain.com/name-match/">
-    <link rel="alternate" hreflang="fr" href="https://dopabrain.com/name-match/">
+    <link rel="alternate" hreflang="en" href="https://dopabrain.com/name-match/?lang=en">
+    <link rel="alternate" hreflang="zh" href="https://dopabrain.com/name-match/?lang=zh">
+    <link rel="alternate" hreflang="hi" href="https://dopabrain.com/name-match/?lang=hi">
+    <link rel="alternate" hreflang="ru" href="https://dopabrain.com/name-match/?lang=ru">
+    <link rel="alternate" hreflang="ja" href="https://dopabrain.com/name-match/?lang=ja">
+    <link rel="alternate" hreflang="es" href="https://dopabrain.com/name-match/?lang=es">
+    <link rel="alternate" hreflang="pt" href="https://dopabrain.com/name-match/?lang=pt">
+    <link rel="alternate" hreflang="id" href="https://dopabrain.com/name-match/?lang=id">
+    <link rel="alternate" hreflang="tr" href="https://dopabrain.com/name-match/?lang=tr">
+    <link rel="alternate" hreflang="de" href="https://dopabrain.com/name-match/?lang=de">
+    <link rel="alternate" hreflang="fr" href="https://dopabrain.com/name-match/?lang=fr">
     <link rel="alternate" hreflang="x-default" href="https://dopabrain.com/name-match/">
 
     <!-- Twitter Card -->
@@ -243,15 +243,18 @@
             <div class="advice-box" id="advice-box"></div>
 
             <div class="action-buttons">
+                <button id="btn-save-card" class="btn-action btn-save-card" data-i18n="result.saveCard">Save Match Card</button>
                 <button id="btn-share" class="btn-action btn-share" data-i18n="result.share">📤 Share</button>
                 <button id="btn-retry" class="btn-action btn-retry" data-i18n="result.retry">🔄 Try Again</button>
             </div>
+            <canvas id="share-canvas" width="1080" height="1920" style="display:none;" aria-hidden="true"></canvas>
+            <div id="curated-resources-card" class="curated-resources"></div>
         </div>
     </div>
 
     <!-- About Section -->
     <section class="about-section collapsible-section" id="about-section">
-      <details>
+      <details open>
         <summary data-i18n="about.toggle" style="min-height:48px;display:flex;align-items:center;justify-content:space-between;cursor:pointer;">About Name Compatibility & Phonosemantics</summary>
         <div class="about-content">
           <h2 data-i18n="about.heading1" style="font-size:16px;color:var(--primary);margin:16px 0 8px;">Onomastics and Phonosemantic Resonance</h2>
@@ -284,7 +287,7 @@
     </section>
 
     <footer class="app-footer">
-        <a href="https://dopabrain.com/portal/" class="back-link" data-i18n="nav.back">
+        <a href="/portal/" data-base-href="/portal/" class="back-link" data-i18n="nav.back">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="m15 18-6-6 6-6"></path></svg>
             DopaBrain Home
         </a>
@@ -293,7 +296,7 @@
     <script src="js/app.js"></script>
     <div style="max-width:420px;margin:20px auto;padding-top:20px;border-top:1px solid rgba(255,255,255,0.1);">
       <h3 data-i18n="related.title" style="font-size:16px;color:#a0a0b8;margin-bottom:12px;text-align:center;">More to Explore</h3>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+      <div class="related-grid" style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
         <a href="/love-frequency/" class="related-card" style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:14px 8px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;text-decoration:none;color:#fff;"><span style="font-size:28px;">&#128147;</span><span data-i18n="related.loveFrequency" style="font-size:12px;font-weight:600;color:#a0a0b8;">Love Frequency</span></a>
         <a href="/mbti-love/" class="related-card" style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:14px 8px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;text-decoration:none;color:#fff;"><span style="font-size:28px;">&#128152;</span><span data-i18n="related.mbtiLove" style="font-size:12px;font-weight:600;color:#a0a0b8;">MBTI Love</span></a>
         <a href="/love-language/" class="related-card" style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:14px 8px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;text-decoration:none;color:#fff;"><span style="font-size:28px;">&#128149;</span><span data-i18n="related.loveLanguage" style="font-size:12px;font-weight:600;color:#a0a0b8;">Love Language</span></a>

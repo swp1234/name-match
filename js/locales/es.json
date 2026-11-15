@@ -57,7 +57,10 @@
   "result": {
     "share": "📤 Compartir",
     "retry": "🔄 Intentar de Nuevo",
-    "adviceTitle": "Consejo de Relación"
+    "adviceTitle": "Consejo de Relación",
+    "saveCard": "Guardar Tarjeta",
+    "saved": "Tarjeta Guardada",
+    "saveFailed": "No se pudo guardar."
   },
   "share": {
     "title": "Test de Compatibilidad de Nombres",
@@ -89,5 +92,15 @@
     "faq3A": "Nunca. Todo el análisis se realiza de forma 100% local en tu navegador.",
     "reviewDate": "Revisión Editorial: Noviembre 2026",
     "reviewTeam": "DopaBrain Serie de Onomástica y Psicología Relacional"
+  },
+  "curated": {
+    "title": "Guías de Pareja y Comunicación",
+    "disclosure": "Enlaces de afiliado",
+    "subtitle": "Más allá de los nombres: fortalece la confianza diaria, el diálogo y el vínculo afectivo.",
+    "cta": "Ver Libro ->",
+    "gottmanTitle": "Siete reglas de oro para vivir en pareja — John Gottman",
+    "gottmanDesc": "Hábitos avalados por la investigación para profundizar la complicidad y reparar roces.",
+    "chapmanTitle": "Los 5 lenguajes del amor — Gary Chapman",
+    "chapmanDesc": "Aprende cómo tú y tu pareja expresan y sienten el afecto auténtico."
   }
 }
