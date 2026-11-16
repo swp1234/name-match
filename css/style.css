@@ -222,6 +222,8 @@ body {
 .heart-divider {
     font-size: 28px;
     text-align: center;
+    width: fit-content;
+    margin: 0 auto;
     animation: heartbeat 1.2s infinite;
 }
 
