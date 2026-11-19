@@ -144,6 +144,9 @@
         ]
     }
     </script>
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+    <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 </head>
 <body>
     <a href="#main-screen" class="skip-link" data-i18n="a11y.skip">Skip to content</a>
@@ -249,7 +252,19 @@
                 <button id="btn-retry" class="btn-action btn-retry" data-i18n="result.retry">🔄 Try Again</button>
             </div>
             <canvas id="share-canvas" width="1080" height="1920" style="display:none;" aria-hidden="true"></canvas>
-            <div id="curated-resources-card" class="curated-resources"></div>
+                    <section class="next-step-card" id="nextStepCard" aria-label="Attachment Style Reflection">
+            <p class="next-step-label" data-i18n="nextStep.label">Recommended Next Step</p>
+            <div class="next-step-main">
+                <span class="next-step-emoji" aria-hidden="true">💞</span>
+                <div class="next-step-content">
+                    <h4 class="next-step-title" data-i18n="nextStep.title">Attachment Style Reflection</h4>
+                    <p class="next-step-desc" data-i18n="nextStep.desc">Go deeper than name chemistry—map your relationship attachment pattern in 10 scenarios.</p>
+                </div>
+            </div>
+            <a href="/attachment-style/?lang=en&amp;start=1&amp;source=name_match_result" class="next-step-cta" id="nextStepCta" data-i18n="nextStep.cta">Check Attachment Style →</a>
+        </section>
+
+<div id="curated-resources-card" class="curated-resources"></div>
         </div>
     </div>
 
@@ -306,5 +321,35 @@
     </div>
     <script src="/portal/js/cross-promo.js" defer></script>
   <script>if("serviceWorker"in navigator){navigator.serviceWorker.register("sw.js").catch(()=>{});}</script>
+
+    <script>
+      (function () {
+        var cta = document.getElementById('nextStepCta');
+        if (!cta) return;
+        function syncHref() {
+          var lang = (window.i18n && (window.i18n.currentLang || (typeof window.i18n.getCurrentLanguage === 'function' && window.i18n.getCurrentLanguage())))
+            || new URLSearchParams(window.location.search).get('lang')
+            || document.documentElement.lang
+            || 'en';
+          try {
+            var u = new URL(cta.getAttribute('href'), window.location.origin);
+            u.searchParams.set('lang', lang);
+            u.searchParams.set('source', 'name_match_result');
+            cta.setAttribute('href', u.pathname + u.search);
+          } catch (e) {}
+        }
+        syncHref();
+        cta.addEventListener('click', function () {
+          syncHref();
+          if (typeof gtag === 'function') {
+            gtag('event', 'content_cta_click', {
+              cta_surface: 'next_step_hero',
+              destination: cta.getAttribute('href'),
+              source: 'name_match_result'
+            });
+          }
+        });
+      })();
+    </script>
 </body>
 </html>

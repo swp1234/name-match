@@ -102,5 +102,11 @@
     "gottmanDesc": "Kebiasaan berbasis riset untuk mempererat persahabatan dan memperbaiki konflik.",
     "chapmanTitle": "The 5 Love Languages — Gary Chapman",
     "chapmanDesc": "Pahami cara unik kamu dan pasangan dalam memberi serta menerima kasih sayang."
+  },
+  "nextStep": {
+    "label": "Langkah Berikutnya",
+    "title": "Tes Gaya Keterikatan",
+    "desc": "Lebih dalam dari kecocokan nama—petakan pola hubunganmu dalam 10 skenario.",
+    "cta": "Cek Gaya Keterikatan →"
   }
 }

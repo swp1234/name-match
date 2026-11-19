@@ -102,5 +102,11 @@
     "gottmanDesc": "John Gottman & Nan Silver — Research-backed habits that deepen friendship and conflict repair.",
     "chapmanTitle": "The 5 Love Languages — Gary Chapman",
     "chapmanDesc": "Discover how you and your partner naturally give and receive emotional affection."
+  },
+  "nextStep": {
+    "label": "Recommended Next Step",
+    "title": "Attachment Style Reflection",
+    "desc": "Go deeper than name chemistry—map your relationship attachment pattern in 10 scenarios.",
+    "cta": "Check Attachment Style →"
   }
 }

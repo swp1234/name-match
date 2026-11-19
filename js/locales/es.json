@@ -102,5 +102,11 @@
     "gottmanDesc": "Hábitos avalados por la investigación para profundizar la complicidad y reparar roces.",
     "chapmanTitle": "Los 5 lenguajes del amor — Gary Chapman",
     "chapmanDesc": "Aprende cómo tú y tu pareja expresan y sienten el afecto auténtico."
+  },
+  "nextStep": {
+    "label": "Siguiente paso recomendado",
+    "title": "Test de Estilo de Apego",
+    "desc": "Ve más allá de la compatibilidad de nombres y descubre tu apego en 10 escenarios.",
+    "cta": "Hacer Test de Apego →"
   }
 }

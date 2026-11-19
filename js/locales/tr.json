@@ -102,5 +102,11 @@
     "gottmanDesc": "Dostluğu ve çatışma çözümünü güçlendiren araştırma temelli alışkanlıklar.",
     "chapmanTitle": "Beş Sevgi Dili — Gary Chapman",
     "chapmanDesc": "Siz ve partnerinizin sevgiyi nasıl ifade edip hissettiğini keşfedin."
+  },
+  "nextStep": {
+    "label": "Önerilen Sonraki Adım",
+    "title": "Bağlanma Stili Testi",
+    "desc": "İsim uyumunun ötesine geç ve 10 senaryoda ilişki bağlanma stilini keşfet.",
+    "cta": "Bağlanma Testini Başlat →"
   }
 }

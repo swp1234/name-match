@@ -102,5 +102,11 @@
     "gottmanDesc": "Habitudes validées par la recherche pour renforcer l’amitié et apaiser les tensions.",
     "chapmanTitle": "Les 5 langages de l’amour — Gary Chapman",
     "chapmanDesc": "Comprenez comment chacun donne et reçoit l’affection au quotidien."
+  },
+  "nextStep": {
+    "label": "Prochaine étape recommandée",
+    "title": "Test de Style d’Attachement",
+    "desc": "Allez plus loin que la compatibilité des prénoms avec 10 scénarios relationnels.",
+    "cta": "Tester mon attachement →"
   }
 }

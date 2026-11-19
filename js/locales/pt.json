@@ -102,5 +102,11 @@
     "gottmanDesc": "Práticas baseadas em pesquisas para aprofundar amizade e resolver conflitos.",
     "chapmanTitle": "As 5 Linguagens do Amor — Gary Chapman",
     "chapmanDesc": "Descubra como vocês dois expressam e recebem afeto naturalmente."
+  },
+  "nextStep": {
+    "label": "Próximo passo recomendado",
+    "title": "Teste de Estilo de Apego",
+    "desc": "Vá além da combinação de nomes e mapeie seu estilo de apego em 10 cenários.",
+    "cta": "Fazer Teste de Apego →"
   }
 }

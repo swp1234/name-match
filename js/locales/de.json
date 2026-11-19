@@ -102,5 +102,11 @@
     "gottmanDesc": "Forschungsbasierte Gewohnheiten für tiefe Verbundenheit und Konfliktlösung.",
     "chapmanTitle": "Die 5 Sprachen der Liebe — Gary Chapman",
     "chapmanDesc": "Entdecken Sie, auf welche Weise Sie und Ihr Partner Zuneigung wirklich spüren."
+  },
+  "nextStep": {
+    "label": "Empfohlener nächster Schritt",
+    "title": "Bindungsstil-Reflexion",
+    "desc": "Geh über Namenschemie hinaus und entdecke dein Bindungsmuster in 10 Szenarien.",
+    "cta": "Bindungstest starten →"
   }
 }
